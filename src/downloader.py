@@ -226,6 +226,7 @@ class ImageDownloader:
 
             # Compress the image
             # compressed_content = self.compress_image(content)
+            compressed_content = content
 
             # Use the same filename as in the markdown link, but sanitized
             filename = self.get_markdown_filename(img_url)
