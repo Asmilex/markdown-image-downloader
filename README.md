@@ -1,3 +1,8 @@
+TODO:
+
+- CLI.
+- Wikilinks instead of plain markdown images (probably optional).
+
 # Markdown Image Downloader
 
 A Python package that automatically downloads and manages images referenced in markdown files, storing them locally in an `_attachments` folder. This script is particularly useful for maintaining local copies of images in markdown documentation and ensuring consistent image availability.
